@@ -511,6 +511,9 @@
     border: none;
     border-radius: 4px;
     }
+    .footer-data-icon{
+    margin-left: 16px;
+    }
         
     /*navigation-portfolio*/
     .navigation{
