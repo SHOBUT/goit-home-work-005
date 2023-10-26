@@ -643,6 +643,7 @@
     border-radius: 4px;
     background-color: var(--DAIRY, #FCFCFC);
     box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.20), 0px 1px 3px 0px rgba(0, 0, 0, 0.12), 0px 1px 1px 0px rgba(0, 0, 0, 0.14);
+    padding: 72px 24px 24px 24px;
     }
     .backdrop .id-hidden .modal{
     transform: translateY(-100%), translateX(-0%) scale(0.4);
