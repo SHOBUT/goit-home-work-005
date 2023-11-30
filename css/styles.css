@@ -792,6 +792,10 @@
         margin-bottom: 24px;
     }
 
+    .review-form-checkbox-wrapper{
+    display: block;
+    }
+
     .review-form-submit-btn:hover,
     .review-form-submit-btn:focus{
         background-color: ;
