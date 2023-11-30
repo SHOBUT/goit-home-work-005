@@ -794,6 +794,7 @@
 
     .review-form-checkbox-wrapper{
     display: block;
+    font-size: 12px;
     }
 
     .review-form-submit-btn:hover,
