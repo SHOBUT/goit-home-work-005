@@ -755,10 +755,16 @@
     }
 
     .review-form-submit-btn{
+    display: block;
     min-width: 169px;
+    height: 56px;
     padding: 16px 32px;
     color: var(--WHITE, #FFF);
     text-align: center;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 
     border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
@@ -818,6 +824,10 @@
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
+    }
+
+    .review-form-link{
+
     }
 
     .review-form-submit-btn:hover,
