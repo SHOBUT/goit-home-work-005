@@ -787,6 +787,11 @@
         border-color: #4D5AE5;
     }
 
+
+    .review-form-checkbox{
+        margin-bottom: 24px;
+    }
+
     .review-form-submit-btn:hover,
     .review-form-submit-btn:focus{
         background-color: ;
