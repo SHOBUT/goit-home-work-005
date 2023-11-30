@@ -758,6 +758,7 @@
     display: block;
     min-width: 169px;
     height: 56px;
+    margin: 0 auto;
     padding: 16px 32px;
     color: var(--WHITE, #FFF);
     text-align: center;
@@ -771,6 +772,7 @@
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     transition: color ;
     border: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 
     .review-form-comment{
@@ -827,11 +829,6 @@
     }
 
     .review-form-link{
-
+    color: #4d5ae5;
     }
 
-    .review-form-submit-btn:hover,
-    .review-form-submit-btn:focus{
-    background-color: ;
-    color: ;
-    }
